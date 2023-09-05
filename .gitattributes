@@ -1,0 +1,2 @@
+Continuum_Dynamic.glb filter=lfs diff=lfs merge=lfs -text
+Continuum_Dynamic.usdz filter=lfs diff=lfs merge=lfs -text
